@@ -150,9 +150,7 @@ public class Generador : MonoBehaviour
                 {
                     cambiarCarta( listaPos[i]);
                 }
-            }   
-
-            cambiarCarta( listaPos[i]);
+            } 
         }
     }
 
